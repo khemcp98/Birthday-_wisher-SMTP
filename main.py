@@ -4,8 +4,8 @@ import pandas as pd
 import smtplib
 import datetime as dt
 
-user = 'khemvi199844@gmail.com'
-password = 'delvkhgbjlttubti'
+user = 'youremail@gmail.com'
+password = 'abcd12345'
 
 PLACEHOLDER = '[NAME]'
 now = dt.datetime.now()
